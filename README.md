@@ -1,4 +1,4 @@
-# LEarthquake plotting and visualiztion
+# Earthquake plotting and visualiztion
 
 ## Background
 
